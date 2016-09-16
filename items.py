@@ -23,7 +23,6 @@ pkg_yum = {
     "patch": {},
     "pciutils": {},
     "psmisc": {},
-    "python": {},
     "rsync": {},
     "screen": {},
     "sysstat": {},
