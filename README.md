@@ -1,6 +1,6 @@
-# bundlewrap-centos-packages-base
+# bundlewrap-packages-base
 
-`bundlewrap-centos-packages-base` simply installs some basic tools via `yum`.
+`bundlewrap-packages-base` simply installs some basic tools via `yum`.
 Take a look into `items.py` for more details.
 
 ## Compatibility
