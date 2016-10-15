@@ -15,6 +15,7 @@ pkg_yum = {
     "less": {},
     "lsof": {},
     "lynx": {},
+    "man-db": {},
     "mlocate": {},
     "ncdu": {},
     "net-tools": {},
