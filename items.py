@@ -1,4 +1,4 @@
-pkg_yum = {
+pkg_dnf = {
     "bzip2": {},
     "ca-certificates": {},
     "coreutils": {},
