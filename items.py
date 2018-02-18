@@ -41,7 +41,6 @@ pkg_dnf = {
     'unzip': {},
     'usbutils': {},
     'util-linux': {},
-    'vim-enhanced': {},
     'wget': {},
     'whois': {},
     'xz': {},
