@@ -1,4 +1,5 @@
 pkg_dnf = {
+    'bind-utils': {},
     'bzip2': {},
     'ca-certificates': {},
     'coreutils': {},
@@ -41,6 +42,7 @@ pkg_dnf = {
     'unzip': {},
     'usbutils': {},
     'util-linux': {},
+    'util-linux-user': {},
     'wget': {},
     'whois': {},
     'xz': {},
