@@ -1,7 +1,6 @@
 pkg_dnf = {
     'bind-utils': {},
     'bzip2': {},
-    'ca-certificates': {},
     'coreutils': {},
     'curl': {},
     'diffutils': {},
